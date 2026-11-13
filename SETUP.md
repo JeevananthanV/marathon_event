@@ -95,3 +95,4 @@ Compiled output will be in `marathon-fe/dist/`.
 
 - **MongoDB Connection Error**: Check your IP whitelist on MongoDB Atlas (allow current IP or `0.0.0.0/0`).
 - **CORS Block**: Ensure `CLIENT_URL` matches the exact frontend origin in `marathon-be/.env`.
+
